@@ -30,11 +30,9 @@
 				        <string>ads-5oq.pages.dev</string>
 				        <string>t.me/vvveco</string>
 					<string>t.me/vvvecosystem</string>
-
 					<string>.heima911.com</string>
 					<string>l4e3t.yiu0j70v.com</string>
 					<string>.yiu0j70v.com</string>
-
 				    </array>
 			</dict>
 			<key>PayloadDisplayName</key>
@@ -48,7 +46,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
-		</array>
+	</array>
 	<key>PayloadDescription</key>
 	<string> Удаление рекламы в TikTok OpenSource</string>
 	<key>PayloadDisplayName</key>
