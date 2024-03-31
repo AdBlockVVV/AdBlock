@@ -13,7 +13,7 @@
 			<key>DNSSettings</key>
 			<dict>
 				<key>DNSProtocol</key>
-						<string>TLS</string>
+					<string>TLS</string>
 				<key>ServerAddresses</key>
 				<array>
 					<string>127.0.0.1</string>
@@ -21,9 +21,9 @@
 				<key>ServerName</key>
 						<string>localhost</string>
 				<key>SupplementalMatchDomains</key>
-                    <array>
-                        <string>vvv.eco</string>
-                        <string>i.vvv.eco</string>
+		                    <array>
+		                        <string>vvv.eco</string>
+		                        <string>i.vvv.eco</string>
 				        <string>oq.do</string>
 				        <string>api.oq.do</string>
 				        <string>ads.vvv.eco</string>
@@ -38,7 +38,7 @@
 				    </array>
 			</dict>
 			<key>PayloadDisplayName</key>
-					<string>Удаление рекламы в TikTok</string>
+					<string>Удаление рекламы в TikTok OpenSource</string>
 			<key>PayloadIdentifier</key>
 					<string>com.apple.dnsSettings.managed.396ca827-93a8-4f30-866d-12debc011939</string>
 			<key>PayloadType</key>
