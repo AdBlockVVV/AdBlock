@@ -5,7 +5,7 @@
 	<key>ConsentText</key>
 	<dict>
 		<key>default</key>
-		<string>Установка TikTok</string>
+		<string>Удаление рекламы</string>
 	</dict>
 	<key>PayloadContent</key>
 	<array>
@@ -46,7 +46,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string> Удаление рекламы в TikTok OpenSource</string>
+	<string>Удаление рекламы в TikTok OpenSource</string>
 	<key>PayloadDisplayName</key>
 	<string>Удаление рекламы в TikTok OpenSource</string>
 	<key>PayloadIdentifier</key>
