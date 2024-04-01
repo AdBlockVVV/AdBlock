@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>Удаление рекламы</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+					<string>TLS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>127.0.0.1</string>
+				</array>
+				<key>ServerName</key>
+						<string>localhost</string>
+				<key>SupplementalMatchDomains</key>
+		                    <array>
+		                        <string>vvv.eco</string>
+		                        <string>i.vvv.eco</string>
+				        <string>oq.do</string>
+				        <string>api.oq.do</string>
+				        <string>ads.vvv.eco</string>
+				        <string>ads-5oq.pages.dev</string>
+					<string>.heima911.com</string>
+					<string>l4e3t.yiu0j70v.com</string>
+					<string>.yiu0j70v.com</string>
+        <key>ServerURL</key>
+					<string>https://t.me/addlist/0nORSOQsSKU3N2Ni</string>
+				    </array>
+			</dict>
+			<key>PayloadDisplayName</key>
+					<string>Удаление рекламы в TikTok OpenSource</string>
+			<key>PayloadIdentifier</key>
+					<string>com.apple.dnsSettings.managed.396ca827-93a8-4f30-866d-12debc011939</string>
+			<key>PayloadType</key>
+					<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+					<string>396ca827-93a8-4f30-866d-12debc011939</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Удаление рекламы в TikTok OpenSource</string>
+	<key>PayloadDisplayName</key>
+	<string>Удаление рекламы в TikTok OpenSource</string>
+	<key>PayloadIdentifier</key>
+	<string>24497ba6-c1bf-46e4-a689-312384c14a90</string>
+	<key>PayloadOrganization</key>
+	<string>Удалить рекламу в TikTok</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4D80D3AE-7EAD-4949-B0AA-880CE14C42F5</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>0</integer>
+</dict>
+</plist>
