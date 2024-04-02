@@ -45,7 +45,7 @@
 				    </array>
 			</dict>
 			<key>PayloadDisplayName</key>
-					<string>Удаление рекламы в TikTok OpenSource</string>
+					<string>Удаление рекламы в TikTok OpenSource 2</string>
 			<key>PayloadIdentifier</key>
 					<string>com.apple.dnsSettings.managed.396ca827-93a8-4f30-866d-12debc011939</string>
 			<key>PayloadType</key>
@@ -57,9 +57,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Удаление рекламы в TikTok OpenSource</string>
+	<string>Удаление рекламы в TikTok OpenSource 2</string>
 	<key>PayloadDisplayName</key>
-	<string>Удаление рекламы в TikTok OpenSource</string>
+	<string>Удаление рекламы в TikTok OpenSource 2</string>
 	<key>PayloadIdentifier</key>
 	<string>24497ba6-c1bf-46e4-a689-312384c14a90</string>
 	<key>PayloadOrganization</key>
@@ -69,7 +69,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>4D80D3AE-7EAD-4949-B0AA-880CE14C42F5</string>
+	<string>000789E0-F998-4C2F-B593-A6E63715EB30</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 	<key>TargetDeviceType</key>
